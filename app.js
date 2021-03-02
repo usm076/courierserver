@@ -19,7 +19,7 @@ var trackRouter = require('./routes/trackApi');
 var pdfRouter = require('./routes/pdfApi');
 var editStaffRouter = require('./routes/editStaffApi');
 var getProfileRouter = require('./routes/getProfileApi');
-var editProfileRouter = require('./routes/editProfileApi');
+var editProfileRouter = require('./routes/editProfileApi');// // "start": "nodemon ./bin/www"
 const connectDB = require('./config/db')
 
 
